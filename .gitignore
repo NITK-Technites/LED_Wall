@@ -1,0 +1,6 @@
+sound/
+*.pyc
+*~
+*.swp
+*.swo
+*#
